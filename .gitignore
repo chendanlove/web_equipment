@@ -1,0 +1,8 @@
+/flask_session
+
+*.log
+*.pid
+*.pyc
+*.idea
+static/.github
+static/.idea
